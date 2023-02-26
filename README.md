@@ -1,7 +1,7 @@
 4NI
 ----
 
-This is 4NI - a standard-compliant implementation of Chlore.
+This is 4NI - a standard-compliant implementation of Chlore. It uses a JIT compiler unlike Ehre.
 
 4NI adds some new instructions to Chlore, so you might want to take a look at `4ni_specific_grammar.txt`.
 
