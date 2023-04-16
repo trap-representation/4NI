@@ -11,4 +11,3 @@ A colon (:) following a non-terminal introduces its definition. If a plus (+) pr
 
 +instruction: one of
   `open` `invoke` `pushpc` `pushcs`
-
